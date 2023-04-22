@@ -1,4 +1,4 @@
-# pre-commit-template
+# pre-commit-example
 
 Pythonのプロジェクトでフォーマッターの設定例。
 
